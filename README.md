@@ -1,2 +1,2 @@
 # invie-github
-taking further this course
+taking further this course by @luiggi
