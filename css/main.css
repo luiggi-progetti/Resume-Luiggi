@@ -1,4 +1,4 @@
-/**
+*
  * =================================================================== 
  *
  *  Kards v1.0 Main Stylesheet
@@ -1901,6 +1901,7 @@ header .flag a {
 	font-size: 1.6rem;
 	color: #888888;
 }
+/*Este es el texto que va en el timeline del work experience y education*******************/
 #resume .timeline-content {
 	margin-left: 35%;
 	padding-left: 60px;
@@ -1993,6 +1994,7 @@ header .flag a {
 		margin-left: -1.8rem;
 		font-size: 1.5rem;
 	}
+	/*Este es el texto que va en el timeline del work experience y education******************/
 	#resume .timeline-header, #resume .timeline-content {
 		padding-left: 5.5rem;
 		text-align: center;
@@ -2819,4 +2821,4 @@ footer .copyright span:last-child::after {
 }
 
 }
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map 
