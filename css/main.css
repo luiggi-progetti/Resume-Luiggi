@@ -1488,7 +1488,7 @@ header .flag a {
 	}
 
 	header .top-right {
-		left: 300px;
+		left: 290px;
 	}
 
 }
@@ -1820,6 +1820,12 @@ header .flag a {
 		padding-left: 0;
 		text-align: center;
 	}
+
+/*	.about-content {
+	text-align: center;
+}*/
+	
+	
 }
 
 /** 
@@ -1989,6 +1995,7 @@ header .flag a {
 	}
 	#resume .timeline-header, #resume .timeline-content {
 		padding-left: 5.5rem;
+		text-align: center;
 	}
 }
 
@@ -2767,6 +2774,7 @@ footer .copyright span:last-child::after {
 	footer .copyright span::after {
 		display: none;
 	}
+
 }
 
 /**
@@ -2779,6 +2787,7 @@ footer .copyright span:last-child::after {
 	right: 0;
 	z-index: 600;
 	display: none;
+	
 }
 #go-top a {
 	text-decoration: none;
@@ -2802,8 +2811,12 @@ footer .copyright span:last-child::after {
 	font-size: 1.6rem;
 	line-height: inherit;
 }
+
+
+@media only screen and (min-width:1024px) {
 #go-top a:hover {
 	background: #000000;
 }
 
+}
 /*# sourceMappingURL=main.css.map */
